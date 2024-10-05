@@ -1,11 +1,32 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Alket.</h2>
+<p align="center">
+  
+  <a href="https://x.com/AlketCecaj">Twitter</a>
+</p>
 
-I am Alket from Italy and I do Data Science. I enjoy talking about Gen AI, Data Science and Data Engineering. 
 
-- 🔭 I’m currently working in the banking sector as a Data Scientist and Business Analyst. 
-- 🌱 Experimenting with Gen AI and its applications in the banking sector.
-- 👯 I’m looking to collaborate on Data Science projects and Gen AI
-- 💬 Ask me about Data Science, Statistics, Machine Learning and in particular Time Series Forecasting problems. 
-- 📫 Reach out: on Linkedin, Twitter @AlketCecaj or check my repos here in Github. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have been living in 4 different countries and speak 4 different languages: Greek, Italian, English and Albanian. Oh, and I'm currently learning Danish.  
+- 🔭 I’m currently working at [Nordea Bank](https://knowbe4.com) as an Business Analyst/Data Scientst
+- 💬 Ask me about **Data Science Algorithims in Python**
+- 📫 How to reach me on LinkedIn: [Alket Cecaj](https://www.linkedin.com/in/alket-cecaj/) on Twitter
+- ⚡ Fun fact: Ployglot speaking 5+ languages and 5+ programming languages
+
+-------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Time series forecasting methods](https://www.mdpi.com/2076-3417/10/18/6580)
+
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+-------
